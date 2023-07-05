@@ -1,6 +1,5 @@
-import React from 'react'
+import React , {useState} from 'react'
 import "./Navbar.css"
-import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import {FaBars} from "react-icons/fa"
 
