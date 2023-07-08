@@ -3,7 +3,12 @@ import "./heroimg2.css"
 
 const Heroimg2 = () => {
   return (
-    <div>Heroimg2</div>
+    <div className="hero-img">
+        <div className="heading">
+            <h1>HEading</h1>
+            <p>text</p>
+        </div>
+    </div>
   )
 }
 
